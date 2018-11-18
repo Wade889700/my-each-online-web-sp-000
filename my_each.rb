@@ -7,5 +7,3 @@ def my_each(array)
   end
   my_array
 end
-
-my_each(array){|i| my_array.push(array[i])}

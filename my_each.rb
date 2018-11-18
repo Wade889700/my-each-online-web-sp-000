@@ -6,4 +6,3 @@ def my_each(array)
     counter += 1
   end
 end
-my_each(array){|counter| my_array.push(array[counter])}

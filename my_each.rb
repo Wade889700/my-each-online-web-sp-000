@@ -5,5 +5,5 @@ def my_each(array)
     my_array << yield(array[i])
     i += 1
   end
-  my_array
+  return my_array
 end
